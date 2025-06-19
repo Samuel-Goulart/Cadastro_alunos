@@ -1,0 +1,14 @@
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\net8.0\Cadastro de Alunos.exe
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\net8.0\Cadastro de Alunos.deps.json
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\net8.0\Cadastro de Alunos.runtimeconfig.json
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\net8.0\Cadastro de Alunos.dll
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\net8.0\Cadastro de Alunos.pdb
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net8.0\Cadastro de Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net8.0\Cadastro de Alunos.AssemblyInfoInputs.cache
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net8.0\Cadastro de Alunos.AssemblyInfo.cs
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net8.0\Cadastro de Alunos.csproj.CoreCompileInputs.cache
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net8.0\Cadastro de Alunos.dll
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net8.0\refint\Cadastro de Alunos.dll
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net8.0\Cadastro de Alunos.pdb
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net8.0\Cadastro de Alunos.genruntimeconfig.cache
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net8.0\ref\Cadastro de Alunos.dll
