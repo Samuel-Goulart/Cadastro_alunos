@@ -11,8 +11,4 @@ Aplicação desenvolvida em C# com foco no gerenciamento e cadastro de registros
 - **Linguagem:** C#
 - **Plataforma:** .NET
 
-## 🚀 Como Executar o Projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/Samuel-Goulart/Cadastro_alunos.git](https://github.com/Samuel-Goulart/Cadastro_alunos.git)
